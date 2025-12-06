@@ -7,7 +7,7 @@
       "product_price": 19999.99,
       "brand": "Cisco",
       "description": "Cisco - Access Switch device for enterprise networks.",
-      "countInStock": 34,
+      "CountInStock": 34,
       "image": "product_images/1.png",
       "createdAt": "2025-06-26"
     }
@@ -20,7 +20,7 @@
       "product_price": 18566.99,
       "brand": "Cisco",
       "description": "Cisco - Access Switch device for enterprise networks.",
-      "countInStock": 90,
+      "CountInStock": 90,
       "image": "product_images/2.png",
       "createdAt": "2025-06-26"
     }
@@ -33,7 +33,7 @@
       "product_price": 9999.99,
       "brand": "Cisco",
       "description": "Cisco - Core Switch device for enterprise networks.",
-      "countInStock": 65,
+      "CountInStock": 65,
       "image": "product_images/3.png",
       "createdAt": "2025-06-26"
     }
@@ -46,7 +46,7 @@
       "product_price": 20500.08,
       "brand": "Cisco",
       "description": "Cisco - Modular Access Switch device for enterprise networks.",
-      "countInStock": 22,
+      "CountInStock": 22,
       "image": "product_images/4.png",
       "createdAt": "2025-06-26"
     }
@@ -59,7 +59,7 @@
       "product_price": 15717.91,
       "brand": "Cisco",
       "description": "Cisco - Data Center Switch device for enterprise networks.",
-      "countInStock": 10,
+      "CountInStock": 10,
       "image": "product_images/5.png",
       "createdAt": "2025-06-26"
     }
@@ -72,7 +72,7 @@
       "product_price": 21946.02,
       "brand": "Cisco",
       "description": "Cisco - Branch Router device for enterprise networks.",
-      "countInStock": 54,
+      "CountInStock": 54,
       "image": "product_images/6.png",
       "createdAt": "2025-06-26"
     }
@@ -85,7 +85,7 @@
       "product_price": 10373.53,
       "brand": "Cisco",
       "description": "Cisco - Branch Router device for enterprise networks.",
-      "countInStock": 21,
+      "CountInStock": 21,
       "image": "product_images/7.png",
       "createdAt": "2025-06-26"
     }
@@ -98,7 +98,7 @@
       "product_price": 19024.77,
       "brand": "Cisco",
       "description": "Cisco - Aggregation Router device for enterprise networks.",
-      "countInStock": 81,
+      "CountInStock": 81,
       "image": "product_images/8.png",
       "createdAt": "2025-06-26"
     }
@@ -111,7 +111,7 @@
       "product_price": 7346.85,
       "brand": "Cisco",
       "description": "Cisco - Next-Gen Firewall device for enterprise networks.",
-      "countInStock": 47,
+      "CountInStock": 47,
       "image": "product_images/9.png",
       "createdAt": "2025-06-26"
     }
@@ -124,7 +124,7 @@
       "product_price": 24432.75,
       "brand": "Cisco",
       "description": "Cisco - Next-Gen Firewall device for enterprise networks.",
-      "countInStock": 47,
+      "CountInStock": 47,
       "image": "product_images/10.png",
       "createdAt": "2025-06-26"
     }
@@ -137,7 +137,7 @@
       "product_price": 6043.26,
       "brand": "Cisco Meraki",
       "description": "Cisco Meraki - SD-WAN & Security device for enterprise networks.",
-      "countInStock": 73,
+      "CountInStock": 73,
       "image": "product_images/11.png",
       "createdAt": "2025-06-26"
     }
@@ -150,7 +150,7 @@
       "product_price": 5097.57,
       "brand": "Cisco Meraki",
       "description": "Cisco Meraki - SD-WAN & Security device for enterprise networks.",
-      "countInStock": 36,
+      "CountInStock": 36,
       "image": "product_images/12.png",
       "createdAt": "2025-06-26"
     }
@@ -163,7 +163,7 @@
       "product_price": 24190.52,
       "brand": "Cisco Meraki",
       "description": "Cisco Meraki - SD-WAN & Security device for enterprise networks.",
-      "countInStock": 67,
+      "CountInStock": 67,
       "image": "product_images/13.png",
       "createdAt": "2025-06-26"
     }
@@ -176,7 +176,7 @@
       "product_price": 15743.11,
       "brand": "Cisco Meraki",
       "description": "Cisco Meraki - Wireless AP device for enterprise networks.",
-      "countInStock": 39,
+      "CountInStock": 39,
       "image": "product_images/14.png",
       "createdAt": "2025-06-26"
     }
@@ -189,7 +189,7 @@
       "product_price": 18063.25,
       "brand": "Cisco Meraki",
       "description": "Cisco Meraki - Wireless AP device for enterprise networks.",
-      "countInStock": 32,
+      "CountInStock": 32,
       "image": "product_images/15.png",
       "createdAt": "2025-06-26"
     }
@@ -202,7 +202,7 @@
       "product_price": 1560.62,
       "brand": "Fortinet",
       "description": "Fortinet - Next-Gen Firewall device for enterprise networks.",
-      "countInStock": 55,
+      "CountInStock": 55,
       "image": "product_images/16.png",
       "createdAt": "2025-06-26"
     }
@@ -215,7 +215,7 @@
       "product_price": 12355.97,
       "brand": "Fortinet",
       "description": "Fortinet - Next-Gen Firewall device for enterprise networks.",
-      "countInStock": 49,
+      "CountInStock": 49,
       "image": "product_images/17.png",
       "createdAt": "2025-06-26"
     }
@@ -228,7 +228,7 @@
       "product_price": 17601.53,
       "brand": "Fortinet",
       "description": "Fortinet - High-Performance NGFW device for enterprise networks.",
-      "countInStock": 45,
+      "CountInStock": 45,
       "image": "product_images/18.png",
       "createdAt": "2025-06-26"
     }
@@ -241,7 +241,7 @@
       "product_price": 17521.41,
       "brand": "Palo Alto Networks",
       "description": "Palo Alto Networks - Next-Gen Firewall device for enterprise networks.",
-      "countInStock": 17,
+      "CountInStock": 17,
       "image": "product_images/19.png",
       "createdAt": "2025-06-26"
     }
@@ -254,7 +254,7 @@
       "product_price": 12573.32,
       "brand": "Palo Alto Networks",
       "description": "Palo Alto Networks - Next-Gen Firewall device for enterprise networks.",
-      "countInStock": 29,
+      "CountInStock": 29,
       "image": "product_images/20.png",
       "createdAt": "2025-06-26"
     }
@@ -267,7 +267,7 @@
       "product_price": 14768.29,
       "brand": "Palo Alto Networks",
       "description": "Palo Alto Networks - Mid-Range NGFW device for enterprise networks.",
-      "countInStock": 92,
+      "CountInStock": 92,
       "image": "product_images/21.png",
       "createdAt": "2025-06-26"
     }
@@ -280,7 +280,7 @@
       "product_price": 9858.02,
       "brand": "Palo Alto Networks",
       "description": "Palo Alto Networks - High-Performance NGFW device for enterprise networks.",
-      "countInStock": 53,
+      "CountInStock": 53,
       "image": "product_images/22.png",
       "createdAt": "2025-06-26"
     }
@@ -293,7 +293,7 @@
       "product_price": 5500.96,
       "brand": "Check Point",
       "description": "Check Point - Firewall device for enterprise networks.",
-      "countInStock": 24,
+      "CountInStock": 24,
       "image": "product_images/23.png",
       "createdAt": "2025-06-26"
     }
@@ -306,7 +306,7 @@
       "product_price": 2324.72,
       "brand": "Check Point",
       "description": "Check Point - High-End Firewall device for enterprise networks.",
-      "countInStock": 35,
+      "CountInStock": 35,
       "image": "product_images/24.png",
       "createdAt": "2025-06-26"
     }
@@ -319,7 +319,7 @@
       "product_price": 10015.53,
       "brand": "HPE",
       "description": "HPE - Access Switch device for enterprise networks.",
-      "countInStock": 41,
+      "CountInStock": 41,
       "image": "product_images/25.png",
       "createdAt": "2025-06-26"
     }
@@ -332,7 +332,7 @@
       "product_price": 7298.2,
       "brand": "HPE",
       "description": "HPE - Core Switch device for enterprise networks.",
-      "countInStock": 54,
+      "CountInStock": 54,
       "image": "product_images/26.png",
       "createdAt": "2025-06-26"
     }
@@ -345,7 +345,7 @@
       "product_price": 15052.35,
       "brand": "Huawei",
       "description": "Huawei - Data Center Switch device for enterprise networks.",
-      "countInStock": 81,
+      "CountInStock": 81,
       "image": "product_images/27.png",
       "createdAt": "2025-06-26"
     }
@@ -358,7 +358,7 @@
       "product_price": 1974.82,
       "brand": "Dell EMC",
       "description": "Dell EMC - Access Switch device for enterprise networks.",
-      "countInStock": 82,
+      "CountInStock": 82,
       "image": "product_images/28.png",
       "createdAt": "2025-06-26"
     }
@@ -371,7 +371,7 @@
       "product_price": 20249.73,
       "brand": "Dell EMC",
       "description": "Dell EMC - Data Center Switch device for enterprise networks.",
-      "countInStock": 20,
+      "CountInStock": 20,
       "image": "product_images/29.png",
       "createdAt": "2025-06-26"
     }
@@ -384,7 +384,7 @@
       "product_price": 3125.88,
       "brand": "Extreme Networks",
       "description": "Extreme Networks - Access Switch device for enterprise networks.",
-      "countInStock": 11,
+      "CountInStock": 11,
       "image": "product_images/30.png",
       "createdAt": "2025-06-26"
     }
@@ -397,7 +397,7 @@
       "product_price": 7167.44,
       "brand": "Cisco",
       "description": "Cisco - Wireless AP device for enterprise networks.",
-      "countInStock": 34,
+      "CountInStock": 34,
       "image": "product_images/31.png",
       "createdAt": "2025-06-26"
     }
@@ -410,7 +410,7 @@
       "product_price": 1604.05,
       "brand": "Cisco",
       "description": "Cisco - Wireless AP device for enterprise networks.",
-      "countInStock": 83,
+      "CountInStock": 83,
       "image": "product_images/32.png",
       "createdAt": "2025-06-26"
     }
@@ -423,7 +423,7 @@
       "product_price": 12595.3,
       "brand": "Cisco",
       "description": "Cisco - Wireless AP device for enterprise networks.",
-      "countInStock": 73,
+      "CountInStock": 73,
       "image": "product_images/33.png",
       "createdAt": "2025-06-26"
     }
@@ -436,7 +436,7 @@
       "product_price": 5464.08,
       "brand": "Cisco",
       "description": "Cisco - Wireless AP device for enterprise networks.",
-      "countInStock": 99,
+      "CountInStock": 99,
       "image": "product_images/34.png",
       "createdAt": "2025-06-26"
     }

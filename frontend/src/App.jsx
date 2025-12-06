@@ -3,16 +3,33 @@ import React from "react";
 import Home from "./pages/Home.jsx";
 import Products from "./pages/Products.jsx";
 import NotFound from "./pages/NotFound.jsx";
+import Login from "./pages/Login.jsx";
+import Profile from "./pages/Profile.jsx";
+import Header from "./components/Header.jsx";
+import { AuthProvider } from "./context/AuthProvider.jsx";
+import { PrivateRoute } from "./context/PrivateRoute.jsx";
 
 const App = () => {
   return (
     <div>
       <Router>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/best-products" element={<Products />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
+        <AuthProvider>
+          <Header />
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/best-products" element={<Products />} />
+            <Route
+              path="/profile"
+              element={
+                <PrivateRoute>
+                  <Profile />
+                </PrivateRoute>
+              }
+            />
+            <Route path="*" element={<NotFound />} />
+          </Routes>
+        </AuthProvider>
       </Router>
     </div>
   );
